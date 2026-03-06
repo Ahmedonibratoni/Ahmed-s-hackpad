@@ -5,8 +5,9 @@ User will be able to change macro for each key directly in the code that will be
 The firmware is not in its final stage, but it will be similar to what it is now, probably with some tweaks because I wasn't able to test it...
 
 
+<img width="256" height="428" alt="Screenshot 2026-03-06 132009" src="https://github.com/user-attachments/assets/af3655ba-fc04-429c-8cba-2bdf85a94da5" />
 
-
+<img width="307" height="510" alt="Screenshot 2026-03-06 132025" src="https://github.com/user-attachments/assets/8253f474-a663-40f7-8ac6-43a1dc3de53b" />
 
 
 
